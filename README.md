@@ -1,10 +1,9 @@
-# Hi there, I'm Abdullah Yazid Muawiyah 👋
+# Greetings, I'm Abdullah Yazid Muawiyah 👋
 
 ### 🚀 About Me
-- 🏆 **Semifinalist EKKA 2026** (Ekshibisi Kompetisi Kecerdasan Artifisial) - Top 2.5% Nasional
-- 🎓 High School Student & AI / Data Science Enthusiast
-- 💡 Currently exploring: **Machine Learning, NLP from Scratch, & Vectorization**
-- 🛠️ Core Stack: **Python, NumPy, Pandas, Git**
+- 🧩 Interest: **Mathematics (Combinatorics) & Data Science**
+- 💡 Currently exploring: **Machine Learning, NLP from Scratch, Vectorization, Data Engineering**
+- 🛠️ Core Stack: **Python, NumPy, Pandas, Git, Scikit-Learn**
 
 ---
 
