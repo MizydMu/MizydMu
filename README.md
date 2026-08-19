@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Abdullah Yazid Muawiyah 👋
+
+### 🚀 About Me
+- 🏆 **Semifinalist EKKA 2026** (Ekshibisi Kompetisi Kecerdasan Artifisial) - Top 2.5% Nasional
+- 🎓 High School Student & AI / Data Science Enthusiast
+- 💡 Currently exploring: **Machine Learning, NLP from Scratch, & Vectorization**
+- 🛠️ Core Stack: **Python, NumPy, Pandas, Git**
+
+---
+
+### 🛠️ Tech Stack & Tools
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MizydMu&show_icons=true&theme=tokyonight)
-<!--
-**MizydMu/MizydMu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MizydMu&layout=compact&theme=tokyonight)
