@@ -17,7 +17,6 @@
 ---
 
 ### 📈 GitHub Stats
-### 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MizydMu&theme=tokyonight" width="100%" />
