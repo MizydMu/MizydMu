@@ -17,6 +17,8 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MizydMu&theme=tokyonight)
+<!-- GitHub Streak -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MizydMu)](https://git.io/streak-stats)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MizydMu&theme=tokyonight&margin-w=15)
+<!-- GitHub Trophy -->
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MizydMu)](https://github.com/ryo-ma/github-profile-trophy)
