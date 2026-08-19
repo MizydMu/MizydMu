@@ -17,5 +17,6 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MizydMu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MizydMu&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MizydMu&theme=tokyonight)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MizydMu&theme=tokyonight&margin-w=15)
